@@ -1,0 +1,4 @@
+2021-06-24 00:50:20,410 - webbase.py - INFO - iframe 切换为['id', 'login_frame']
+2021-06-24 00:50:26,432 - webbase.py - INFO - iframe 切换为['xpath', ".//div[@id='mainFrameContainer']/iframe"]
+2021-06-24 00:50:28,821 - webbase.py - INFO - iframe 切换为['xpath', ".//div[@id='QMEditorArea']/table/tbody/tr[2]/td/iframe"]
+2021-06-24 00:50:40,441 - webbase.py - ERROR - click ['name', 'savebtn'] 失败

@@ -1,0 +1,2 @@
+2021-06-23 22:07:43,791 - webbase.py - INFO - iframe 切换为['id', 'login_frame']
+2021-06-23 22:07:45,234 - webbase.py - ERROR - locator参数类型错误，必须传元祖类型：loc = ("id", "value1")

@@ -1,0 +1,4 @@
+2021-06-21 23:22:42,224 - apibase.py - INFO - POST-接口请求地址：http://rrwapi.renren.com/account/v1/loginByPassword HTTP/1.1
+2021-06-21 23:22:42,391 - apibase.py - ERROR - POST-接口请求超时：
+2021-06-21 23:22:52,606 - apibase.py - INFO - POST-接口请求地址：http://rrwapi.renren.com/account/v1/loginByPassword HTTP/1.1
+2021-06-21 23:22:52,779 - apibase.py - ERROR - POST-接口请求超时：

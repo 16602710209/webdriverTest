@@ -1,0 +1,20 @@
+test_add_1 (myMathTest.myMathTest) ... ok
+test_add_2 (myMathTest.myMathTest) ... ok
+test_cheng_1 (myMathTest.myMathTest) ... ok
+test_cheng_2 (myMathTest.myMathTest) ... ok
+test_chu_1 (myMathTest.myMathTest) ... ok
+test_chu_2 (myMathTest.myMathTest) ... FAIL
+test_jian_1 (myMathTest.myMathTest) ... ok
+
+======================================================================
+FAIL: test_chu_2 (myMathTest.myMathTest)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "E:\PythonTest\Test2\myMathTest.py", line 43, in test_chu_2
+    self.assertEqual(actualValue, expectValue, "预期结果和实际不一致")
+AssertionError: 'ee' != 2 : 预期结果和实际不一致
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.001s
+
+FAILED (failures=1)

@@ -1,0 +1,7 @@
+{
+  "url": "http://ttapi.research.itcast.cn/app/v1_0/user/channels/1",
+  "headers": {"Content-type": "application/json", "Authorization": "Bearer ASJkldhlaskdsfjodfnb"},
+  "data": {"target": 1},
+  "expect_result": "ok",
+  "status_code": 405
+}

@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b92c7a6-0683-4180-b52e-35cab4bd5fe3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sq61GGKQzmKX4dGnH3hPITKdQ1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web_demo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="recentsLimit" value="1" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Test" sdk-home="C:\Users\saloa\AppData\Local\Programs\Python\Python39\python.exe">
+        <option name="mySdkHome" value="C:\Users\saloa\AppData\Local\Programs\Python\Python39\python.exe" />
+        <option name="myModuleName" value="Test" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Test\InterfaceTest\api" />
+      <recent name="E:\Test\api" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Test\web_demo" />
+      <recent name="E:\Test\PyTestDemo" />
+      <recent name="E:\Test\InterfaceTest\tools" />
+      <recent name="E:\Test\InterfaceTest\case" />
+      <recent name="E:\Test\InterfaceTest01" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="session_demo1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\saloa\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api_demo" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api_demo/session_demo1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.session_demo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b92c7a6-0683-4180-b52e-35cab4bd5fe3" name="Default Changelist" comment="" />
+      <created>1621587555485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621587555485</updated>
+      <workItem from="1621587557390" duration="3965000" />
+      <workItem from="1621921126132" duration="15089000" />
+      <workItem from="1622101189786" duration="6209000" />
+      <workItem from="1622163344748" duration="17971000" />
+      <workItem from="1622445927312" duration="3148000" />
+      <workItem from="1622535895246" duration="12644000" />
+      <workItem from="1622602653130" duration="2347000" />
+      <workItem from="1622610985802" duration="33000" />
+      <workItem from="1622696820990" duration="13590000" />
+      <workItem from="1622778619663" duration="5502000" />
+      <workItem from="1623119378678" duration="8730000" />
+      <workItem from="1623224257641" duration="4482000" />
+      <workItem from="1623232906280" duration="4287000" />
+      <workItem from="1623305930825" duration="819000" />
+      <workItem from="1623310481362" duration="122000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="668" y="133" key="#api_articel" timestamp="1622194407784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#api_articel/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622194407784" />
+    <state x="668" y="133" key="#api_login" timestamp="1621946134004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#api_login/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1621946134004" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622542639920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622542639920" />
+    <state x="699" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621588755308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="699" y="323" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1621588755308" />
+    <state x="668" y="136" key="#pytest_for_test_pytest_demo.TestCase" timestamp="1622538870784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="136" key="#pytest_for_test_pytest_demo.TestCase.test_case_01" timestamp="1622538472560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="136" key="#pytest_for_test_pytest_demo.TestCase.test_case_01/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622538472560" />
+    <state x="668" y="136" key="#pytest_for_test_pytest_demo.TestCase/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622538870784" />
+    <state x="668" y="136" key="#pytest_for_test_pytest_demo02.test_case_01" timestamp="1622540043581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="136" key="#pytest_for_test_pytest_demo02.test_case_01/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622540043581" />
+    <state x="668" y="136" key="#pytest_for_test_pytest_demo03.TestCase" timestamp="1622540661055">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="136" key="#pytest_for_test_pytest_demo03.TestCase/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622540661055" />
+    <state x="668" y="136" key="#pytest_for_test_pytest_demo04.TestCase.test_case_01" timestamp="1622542414840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="136" key="#pytest_for_test_pytest_demo04.TestCase.test_case_01/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622542414840" />
+    <state x="668" y="136" key="#pytest_for_test_pytest_demo04.TestCase.test_case_02" timestamp="1622542814682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="136" key="#pytest_for_test_pytest_demo04.TestCase.test_case_02/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622542814682" />
+    <state x="668" y="136" key="#pytest_for_test_pytest_demo05.TestCase.test_case_01" timestamp="1622551734566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="136" key="#pytest_for_test_pytest_demo05.TestCase.test_case_01/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622551734566" />
+    <state x="668" y="136" key="#pytest_for_test_pytest_demo05.test_case_01" timestamp="1622551046400">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="136" key="#pytest_for_test_pytest_demo05.test_case_01/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622551046400" />
+    <state x="668" y="136" key="#pytest_in_test_pytest_demo.py" timestamp="1622537056001">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="136" key="#pytest_in_test_pytest_demo.py/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622537056001" />
+    <state x="668" y="136" key="#pytest_in_test_pytest_demo02.py" timestamp="1622540125294">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="136" key="#pytest_in_test_pytest_demo02.py/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622540125294" />
+    <state x="668" y="136" key="#pytest_in_test_pytest_demo05.py" timestamp="1622551754285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="136" key="#pytest_in_test_pytest_demo05.py/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622551754285" />
+    <state x="668" y="133" key="#read_channel_json" timestamp="1622206167186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#read_channel_json/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622206167186" />
+    <state x="668" y="133" key="#read_json" timestamp="1621933802957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#read_json/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1621933802957" />
+    <state x="668" y="133" key="#read_json_article" timestamp="1622205066500">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#read_json_article/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622205066500" />
+    <state x="668" y="133" key="#read_json_article_delete" timestamp="1622207631692">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#read_json_article_delete/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622207631692" />
+    <state x="668" y="133" key="#read_json_more" timestamp="1622205867409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#read_json_more/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622205867409" />
+    <state x="668" y="133" key="#request_demo1" timestamp="1622792033281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#request_demo1/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622792033281" />
+    <state x="668" y="133" key="#selenium_demo" timestamp="1622698078664">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#selenium_demo/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622698078664" />
+    <state x="668" y="133" key="#selenium_demo2" timestamp="1622706408919">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#selenium_demo2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622706408919" />
+    <state x="668" y="133" key="#session_demo1" timestamp="1623230127282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#session_demo1/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1623230127282" />
+    <state x="668" y="133" key="#sun_suite" timestamp="1622447697731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#sun_suite/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622447697731" />
+    <state x="668" y="133" key="#test_article" timestamp="1622194077594">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#test_article/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622194077594" />
+    <state x="668" y="133" key="#test_case_demo" timestamp="1622536108896">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#test_case_demo/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622536108896" />
+    <state x="668" y="133" key="#test_channels" timestamp="1622185571831">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#test_channels/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622185571831" />
+    <state x="668" y="133" key="#test_login" timestamp="1621925052864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#test_login/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1621925052864" />
+    <state x="668" y="133" key="#test_login_(1)" timestamp="1621945448365">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#test_login_(1)/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1621945448365" />
+    <state x="668" y="133" key="#test_login_more" timestamp="1622104968246">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#test_login_more/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622104968246" />
+    <state x="668" y="133" key="#test_param" timestamp="1621943277620">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="133" key="#test_param/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1621943277620" />
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1623310209641">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1623231763467" />
+    <state x="2660" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1623310209641" />
+    <state width="1877" height="657" key="GridCell.Tab.0.bottom" timestamp="1623245098219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="657" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1623245098219" />
+    <state width="1860" height="652" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1623146325483" />
+    <state width="1877" height="657" key="GridCell.Tab.0.center" timestamp="1623245098219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="657" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1623245098219" />
+    <state width="1860" height="652" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1623146325483" />
+    <state width="1877" height="657" key="GridCell.Tab.0.left" timestamp="1623245098218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="657" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1623245098218" />
+    <state width="1860" height="652" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1623146325482" />
+    <state width="1877" height="657" key="GridCell.Tab.0.right" timestamp="1623245098219">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="657" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1623245098219" />
+    <state width="1860" height="652" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1623146325483" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1622556661772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622556661772" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1622556661772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622556661772" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1622556661772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622556661772" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1622556661772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1622556661772" />
+    <state x="2381" y="162" key="SettingsEditor" timestamp="1623310215496">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1623232670706" />
+    <state x="2381" y="162" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1623310215496" />
+    <state x="2560" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1623310481850">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1623305965950" />
+    <state x="2560" y="344" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1623310481850" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1623229172833">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1623229172833" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/InterfaceTest/tools/read_json_article.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="data.values()" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Test$test_login__1_.coverage" NAME="test_login (1) Coverage Results" MODIFIED="1621945448415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceTest01/case" />
+    <SUITE FILE_PATH="coverage/Test$read_json_more.coverage" NAME="read_json_more Coverage Results" MODIFIED="1622205867448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceTest/tools" />
+    <SUITE FILE_PATH="coverage/Test$selenium_demo.coverage" NAME="selenium_demo Coverage Results" MODIFIED="1622698246595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_demo" />
+    <SUITE FILE_PATH="coverage/Test$read_json_article.coverage" NAME="read_json_article Coverage Results" MODIFIED="1622206248430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceTest/tools" />
+    <SUITE FILE_PATH="coverage/Test$read_json_article_delete.coverage" NAME="read_json_article_delete Coverage Results" MODIFIED="1622207631797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceTest/tools" />
+    <SUITE FILE_PATH="coverage/Test$read_json.coverage" NAME="read_json Coverage Results" MODIFIED="1621943816157" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceTest/tools" />
+    <SUITE FILE_PATH="coverage/Test$pytest_for_test_pytest_demo_TestCase.coverage" NAME="pytest for test_pytest_demo.TestCase Coverage Results" MODIFIED="1622538870825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyTestDemo" />
+    <SUITE FILE_PATH="coverage/Test$test_article.coverage" NAME="test_article Coverage Results" MODIFIED="1622208566605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceTest/case" />
+    <SUITE FILE_PATH="coverage/Test$sun_suite.coverage" NAME="sun_suite Coverage Results" MODIFIED="1622447912542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceTest/tools" />
+    <SUITE FILE_PATH="coverage/Test$request_demo1.coverage" NAME="request_demo1 Coverage Results" MODIFIED="1623147011754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api_demo" />
+    <SUITE FILE_PATH="coverage/Test$test_case_demo.coverage" NAME="test_case_demo Coverage Results" MODIFIED="1622536109163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyTestDemo" />
+    <SUITE FILE_PATH="coverage/Test$read_channel_json.coverage" NAME="read_channel_json Coverage Results" MODIFIED="1622206167223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceTest/tools" />
+    <SUITE FILE_PATH="coverage/Test$session_demo1.coverage" NAME="session_demo1 Coverage Results" MODIFIED="1623236150519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api_demo" />
+    <SUITE FILE_PATH="coverage/Test$pytest_for_test_pytest_demo04_TestCase_test_case_02.coverage" NAME="pytest for test_pytest_demo04.TestCase.test_case_02 Coverage Results" MODIFIED="1622550262457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyTestDemo" />
+    <SUITE FILE_PATH="coverage/Test$selenium_demo2.coverage" NAME="selenium_demo2 Coverage Results" MODIFIED="1622706797055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web_demo" />
+    <SUITE FILE_PATH="coverage/Test$pytest_for_test_pytest_demo03_TestCase.coverage" NAME="pytest for test_pytest_demo03.TestCase Coverage Results" MODIFIED="1622540661103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyTestDemo" />
+    <SUITE FILE_PATH="coverage/Test$test_login_more.coverage" NAME="test_login_more Coverage Results" MODIFIED="1622104968290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceTest/case" />
+    <SUITE FILE_PATH="coverage/Test$pytest_in_test_pytest_demo02_py.coverage" NAME="pytest in test_pytest_demo02.py Coverage Results" MODIFIED="1622540641131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyTestDemo" />
+    <SUITE FILE_PATH="coverage/Test$pytest_for_test_pytest_demo02_test_case_01.coverage" NAME="pytest for test_pytest_demo02.test_case_01 Coverage Results" MODIFIED="1622540055376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyTestDemo" />
+    <SUITE FILE_PATH="coverage/Test$api_login.coverage" NAME="api_login Coverage Results" MODIFIED="1621946134053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceTest/api" />
+    <SUITE FILE_PATH="coverage/Test$test_param.coverage" NAME="test_param Coverage Results" MODIFIED="1621943767505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceTest/case" />
+    <SUITE FILE_PATH="coverage/Test$test_channels.coverage" NAME="test_channels Coverage Results" MODIFIED="1622185846404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceTest/case" />
+    <SUITE FILE_PATH="coverage/Test$pytest_for_test_pytest_demo_TestCase_test_case_01.coverage" NAME="pytest for test_pytest_demo.TestCase.test_case_01 Coverage Results" MODIFIED="1622538798910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyTestDemo" />
+    <SUITE FILE_PATH="coverage/Test$pytest_for_test_pytest_demo05_test_case_01.coverage" NAME="pytest for test_pytest_demo05.test_case_01 Coverage Results" MODIFIED="1622551046439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyTestDemo" />
+    <SUITE FILE_PATH="coverage/Test$pytest_for_test_pytest_demo05_TestCase_test_case_01.coverage" NAME="pytest for test_pytest_demo05.TestCase.test_case_01 Coverage Results" MODIFIED="1622551734658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyTestDemo" />
+    <SUITE FILE_PATH="coverage/Test$pytest_for_test_pytest_demo04_TestCase_test_case_01.coverage" NAME="pytest for test_pytest_demo04 Coverage Results" MODIFIED="1622542696534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyTestDemo" />
+    <SUITE FILE_PATH="coverage/Test$pytest_in_test_pytest_demo05_py.coverage" NAME="pytest in test_pytest_demo05.py Coverage Results" MODIFIED="1622552989219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyTestDemo" />
+    <SUITE FILE_PATH="coverage/Test$test_login.coverage" NAME="test_login Coverage Results" MODIFIED="1622181727258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/InterfaceTest/case" />
+    <SUITE FILE_PATH="coverage/Test$pytest_in_test_pytest_demo_py.coverage" NAME="pytest in test_pytest_demo.py Coverage Results" MODIFIED="1622537056151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PyTestDemo" />
+  </component>
+</project>

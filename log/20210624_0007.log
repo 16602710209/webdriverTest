@@ -1,0 +1,4 @@
+2021-06-24 00:07:12,257 - webbase.py - INFO - iframe 切换为['id', 'login_frame']
+2021-06-24 00:07:18,361 - webbase.py - INFO - iframe 切换为['xpath', ".//div[@id='mainFrameContainer']/iframe"]
+2021-06-24 00:07:20,748 - webbase.py - INFO - iframe 切换为['xpath', ".//div[@id='QMEditorArea']/table/tbody/tr[2]/td/iframe"]
+2021-06-24 00:07:33,468 - webbase.py - ERROR - iframe['xpath', ".//div[@id='mainFrameContainer']/iframe"]切换异常

@@ -1,0 +1,15 @@
+test_add_1 (myMathTest.myMathTest) ... ok
+test_add_2 (myMathTest.myMathTest) ... ok
+test_cheng_1 (myMathTest.myMathTest) ... ok
+test_cheng_2 (myMathTest.myMathTest) ... ok
+test_chu_1 (myMathTest.myMathTest) ... ok
+test_chu_2 (myMathTest.myMathTest) ... ok
+test_jian_1 (myMathTest.myMathTest) ... ok
+test_add_1 (myMathTest_add.myMathTest) ... ok
+test_add_2 (myMathTest_add.myMathTest) ... ok
+test_add_3 (myMathTest_add.myMathTest) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.001s
+
+OK

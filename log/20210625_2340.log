@@ -1,0 +1,8 @@
+2021-06-25 23:40:45,733 - guibase - INFO - 查找图片 qq_icon_0625.png 位置,点击成功
+2021-06-25 23:40:52,394 - guibase - INFO - 查找图片 qq_user_0625.png 位置,点击成功
+2021-06-25 23:40:52,533 - guibase - INFO - 文本框输入2490158860
+2021-06-25 23:40:59,166 - guibase - INFO - 查找图片 qq_pwd_0625.png 位置,点击成功
+2021-06-25 23:40:59,278 - guibase - INFO - 文本框输入qqmima123
+2021-06-25 23:41:02,010 - guibase - INFO - 查找图片 qq_login_0625.png 位置,点击成功
+2021-06-25 23:41:13,302 - guibase - INFO - C:\Users\saloa\Desktop\TestDemo\pic\screenshots\qq_sousuo_0625.png屏幕截图完成
+2021-06-25 23:41:13,303 - guibase - ERROR - 查找图片 qq_sousuo_0625.png 位置, 当前屏幕无此内容，已截图

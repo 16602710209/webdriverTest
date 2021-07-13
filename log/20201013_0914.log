@@ -1,0 +1,26 @@
+2020-10-13 09:14:50,009 - 02demo.py - INFO - **********步骤一：查询事件**********
+2020-10-13 09:14:50,009 - api_page.py - INFO - -----表单查询接口调用开始-----
+2020-10-13 09:14:50,009 - api_page.py - INFO - cookie：9566D12F50FDD983A2ACA6D30CBA90A0
+2020-10-13 09:14:50,009 - api_page.py - INFO - 接口地址：http://172.168.3.194:8010/bmbFlowdata/getListData?type=merge&?session_id=9566D12F50FDD983A2ACA6D30CBA90A0
+2020-10-13 09:14:50,149 - api_page.py - INFO - -----表单查询接口调用结束-----
+2020-10-13 09:14:50,149 - 02demo.py - INFO -  接口返回码为：200
+2020-10-13 09:14:50,149 - 02demo.py - INFO -  接口返回内容：{'total': 3, 'data': [{'status': '0', 'totalAll': 156, 'beginTime': '2020-10-10 17:21:20', 'endTime': '2020-10-10 23:57:20', 'JGKpiCode': 'JG2112', 'totalUser': 2, 'totalIps': 2, 'totalDstIps': 0, 'isRecord': 0, 'JGBatchId': '1', 'eventName': '终端发现疑似互联网访问记录', 'category': '配置合规性', 'level': '特别重大', 'triggerCondition': '发生即告警'}, {'status': '0', 'totalAll': 154, 'beginTime': '2020-10-10 17:30:20', 'endTime': '2020-10-10 23:57:20', 'JGKpiCode': 'JG2126', 'totalUser': 2, 'totalIps': 2, 'totalDstIps': 0, 'isRecord': 0, 'JGBatchId': '1', 'eventName': '终端发现违规文件操作记录', 'category': '配置合规性', 'level': '重大', 'triggerCondition': '发生即告警'}, {'status': '0', 'totalAll': 152, 'beginTime': '2020-10-10 17:36:20', 'endTime': '2020-10-10 23:57:20', 'JGKpiCode': 'JG2104', 'totalUser': 2, 'totalIps': 2, 'totalDstIps': 0, 'isRecord': 0, 'JGBatchId': '1', 'eventName': '终端存在无线功能模块', 'category': '配置合规性', 'level': '较大', 'triggerCondition': '发生即告警'}]}
+2020-10-13 09:14:50,149 - 02demo.py - INFO - **********步骤二：文件上传**********
+2020-10-13 09:14:50,149 - api_page.py - INFO - -----文件上传接口调用开始-----
+2020-10-13 09:14:50,149 - api_page.py - INFO - 接口地址：http://172.168.3.194:8010/ui/uploadFile
+2020-10-13 09:14:50,165 - api_page.py - INFO - -----文件上传接口调用结束-----
+2020-10-13 09:14:50,165 - 02demo.py - INFO - 接口返回码为：200
+2020-10-13 09:14:50,165 - 02demo.py - INFO - 接口返回内容：{'data': {'errorcode': 0, 'downfile': '/ui/download?link=/1602551676519/fileupload.xls&filename=fileupload.xls', 'filepath': '/1602551676519/fileupload.xls', 'filename': 'fileupload.xls', 'msg': '上传成功', 'raw': None}}
+2020-10-13 09:14:50,165 - 02demo.py - INFO - 上传的文件内容：[{'downfile': '/ui/download?link=/1602551676519/fileupload.xls&filename=fileupload.xls', 'filepath': '/1602551676519/fileupload.xls', 'filename': 'fileupload.xls', 'size': 38400}]
+2020-10-13 09:14:50,165 - 02demo.py - INFO - **********步骤三：填写核查表单**********
+2020-10-13 09:14:50,165 - api_page.py - INFO - -----填写核查表单接口调用开始-----
+2020-10-13 09:14:50,165 - api_page.py - INFO - 接口地址：http://172.168.3.194:8010/flowable-api/startFlowWithFormNotBatchId
+2020-10-13 09:14:50,212 - api_page.py - INFO - -----填写核查表单接口调用结束-----
+2020-10-13 09:14:50,212 - 02demo.py - INFO - 接口返回码为：200
+2020-10-13 09:14:50,212 - 02demo.py - INFO - 接口返回内容：{'batchId': '1602551676530', 'processInsId': '75a4fad8-0cf1-11eb-8cb2-0a22f35313e2', 'errorcode': '0'}
+2020-10-13 09:14:50,212 - 02demo.py - INFO - **********步骤四：发起核查申请**********
+2020-10-13 09:14:50,212 - api_page.py - INFO - -----提交核查申请接口调用开始-----
+2020-10-13 09:14:50,212 - api_page.py - INFO - 接口地址：http://172.168.3.194:8010/bmbFlowdata/disposeJGEventsForMerge
+2020-10-13 09:14:50,524 - api_page.py - INFO - -----提交核查申请接口调用结束-----
+2020-10-13 09:14:50,524 - 02demo.py - INFO - 接口返回码为：200
+2020-10-13 09:14:50,524 - 02demo.py - INFO - 接口返回内容：{'errorcode': 0, 'msg': '事件处置成功'}

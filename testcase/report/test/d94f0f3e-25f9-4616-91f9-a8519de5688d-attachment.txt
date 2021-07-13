@@ -1,0 +1,2 @@
+INFO     test_demo1:test_06AllureStudy.py:23 这是第一个用例的调试信息1
+INFO     test_demo1:test_06AllureStudy.py:24 这是第一个用例的调试信息2

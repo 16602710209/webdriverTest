@@ -1,0 +1,17 @@
+{
+  "qq_icon": "qq_icon.png",
+  "qq_login": "qq_login.png",
+  "qq_user": "qq_user.png",
+  "qq_pwd": "qq_pwd.png",
+  "login_ok": "login_ok.png",
+
+  "qq_icon_0625": "qq_icon_0625.png",
+  "qq_user_0625": "qq_user_0625.png",
+  "qq_pwd_0625": "qq_pwd_0625.png",
+  "qq_login_0625": "qq_login_0625.png",
+  "qq_login_ok_0625": "qq_login_ok_0625.png",
+  "qq_sousuo_0625": "qq_sousuo_0625.png",
+  "qq_biaoqing_0625": "qq_biaoqing_0625.png",
+  "qq_touxiang_0625": "qq_touxiang_0625.png"
+
+}

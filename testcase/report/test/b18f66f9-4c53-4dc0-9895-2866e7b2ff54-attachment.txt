@@ -1,0 +1,2 @@
+INFO     test_02:test_05LogStudy.py:31 这是第二个用例的调试信息1
+INFO     test_02:test_05LogStudy.py:32 这是第二个用例的调试信息2

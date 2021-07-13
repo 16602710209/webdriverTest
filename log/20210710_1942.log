@@ -1,0 +1,6 @@
+2021-07-10 19:42:33,654 - webbase.py - INFO - iframe 切换为['id', 'login_frame']
+2021-07-10 19:42:34,698 - webbase.py - ERROR - send keys 346639189.0 失败
+2021-07-10 19:42:41,852 - webbase.py - INFO - iframe 切换为['id', 'login_frame']
+2021-07-10 19:42:42,883 - webbase.py - ERROR - send keys 2490158860.0 失败
+2021-07-10 19:43:01,953 - webbase.py - INFO - iframe 切换为['id', 'login_frame']
+2021-07-10 19:43:22,888 - webbase.py - ERROR - iframe['id', 'login_frame']切换异常

@@ -1,0 +1,4 @@
+2021-06-22 16:31:14,008 - apibase.py - INFO - POST-接口请求地址：http://rrwapi.renren.com/buddy/v1/getFullFriendInfo
+2021-06-22 16:31:14,008 - apibase.py - ERROR - POST-data参数类型错误，必须传字典类型
+2021-06-22 16:31:30,401 - apibase.py - INFO - POST-接口请求地址：http://rrwapi.renren.com/buddy/v1/getFullFriendInfo
+2021-06-22 16:31:30,402 - apibase.py - ERROR - POST-data参数类型错误，必须传字典类型

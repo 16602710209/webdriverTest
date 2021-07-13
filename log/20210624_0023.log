@@ -1,0 +1,4 @@
+2021-06-24 00:23:25,648 - webbase.py - INFO - iframe 切换为['id', 'login_frame']
+2021-06-24 00:23:31,675 - webbase.py - INFO - iframe 切换为['xpath', ".//div[@id='mainFrameContainer']/iframe"]
+2021-06-24 00:23:34,004 - webbase.py - INFO - iframe 切换为['xpath', ".//div[@id='QMEditorArea']/table/tbody/tr[2]/td/iframe"]
+2021-06-24 00:23:45,630 - webbase.py - ERROR - click ['xpath', ".//form[@id='frm']/div[3]/div/a[3]"] 失败

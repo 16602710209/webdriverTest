@@ -1,0 +1,2 @@
+2021-06-21 16:10:07,493 - apibase.py - INFO - POST-接口请求地址：https://mail.163.com/pushmessager/cmdsvr?cmd=pullMessages&sid=VCMssrnohbEdejaJPzoofEETYCWRmNho&uid=13720187233@163.com
+2021-06-21 16:10:57,990 - apibase.py - INFO - POST-接口请求地址：https://mail.163.com/pushmessager/cmdsvr?cmd=pullMessages&sid=VCMssrnohbEdejaJPzoofEETYCWRmNho&uid=13720187233@163.com

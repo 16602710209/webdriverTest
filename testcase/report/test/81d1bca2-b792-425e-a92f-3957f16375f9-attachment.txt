@@ -1,0 +1,2 @@
+INFO     02demo.py:test_04Apidemo.py:43 **********步骤一：查询事件**********
+INFO     api_page.py:api_page.py:97 -----表单查询接口调用开始-----

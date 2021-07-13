@@ -1,0 +1,1 @@
+INFO     khdjh_page.py:khdjh_page.py:168 -----点击终端激活向导开始-----

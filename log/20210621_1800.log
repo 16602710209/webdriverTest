@@ -1,0 +1,3 @@
+2021-06-21 18:00:11,177 - apibase.py - INFO - POST-接口请求地址：https://ynuf.aliapp.org/service/um.json?_bx-v=2.0.31
+2021-06-21 18:00:11,974 - apibase.py - INFO - POST-接口请求地址：http://www.renren.com/PersonalInfo.do?/v=info_timeline
+2021-06-21 18:00:12,097 - apibase.py - ERROR - POST-接口请求超时：

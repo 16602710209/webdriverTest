@@ -1,0 +1,2 @@
+2021-06-22 16:11:25,205 - apibase.py - INFO - GET-接口请求地址：http://www.renren.com/personal/2147542907
+2021-06-22 16:11:35,333 - apibase.py - ERROR - GET-接口请求超时：HTTPConnectionPool(host='www.renren.com', port=80): Read timed out. (read timeout=10)

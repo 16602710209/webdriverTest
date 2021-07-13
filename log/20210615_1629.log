@@ -1,0 +1,9 @@
+2021-06-15 16:29:10,650 - guibase - INFO - 查找图片 qq_icon.png 位置,点击成功
+2021-06-15 16:29:15,920 - guibase - INFO - C:\Users\saloa\Desktop\TestDemo\pic\screenshots\qq_user.png屏幕截图完成
+2021-06-15 16:29:15,920 - guibase - ERROR - 查找图片 qq_user.png 位置, 当前屏幕无此内容，已截图
+2021-06-15 16:29:31,725 - guibase - INFO - 查找图片 qq_icon.png 位置,点击成功
+2021-06-15 16:29:37,175 - guibase - INFO - 查找图片 qq_user.png 位置,点击成功
+2021-06-15 16:29:39,155 - guibase - INFO - 文本框输入346639189
+2021-06-15 16:29:40,685 - guibase - INFO - 查找图片 qq_pwd.png 位置,点击成功
+2021-06-15 16:29:42,765 - guibase - INFO - 文本框输入qqmima123
+2021-06-15 16:29:43,715 - guibase - INFO - 查找图片 qq_login.png 位置,点击成功

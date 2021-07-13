@@ -1,0 +1,3 @@
+INFO     test_03:test_05LogStudy.py:38 这是第三个用例的调试信息1
+INFO     test_03:test_05LogStudy.py:39 这是第三个用例的调试信息2
+INFO     test_03:test_05LogStudy.py:40 这是变量1

@@ -1,0 +1,6 @@
+2021-06-22 15:51:14,698 - apibase.py - INFO - POST-接口请求地址：http://rrwapi.renren.com/account/v1/loginByPassword
+2021-06-22 15:51:14,703 - apibase.py - ERROR - POST-data参数类型错误，必须传字典类型
+2021-06-22 15:51:23,422 - apibase.py - INFO - POST-接口请求地址：http://rrwapi.renren.com/account/v1/loginByPassword
+2021-06-22 15:51:23,423 - apibase.py - ERROR - POST-data参数类型错误，必须传字典类型
+2021-06-22 15:51:59,113 - apibase.py - INFO - POST-接口请求地址：http://rrwapi.renren.com/account/v1/loginByPassword
+2021-06-22 15:51:59,113 - apibase.py - ERROR - POST-data参数类型错误，必须传字典类型
